@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T14:03:03.554Z" agent="5.0 (Windows)" etag="DizFC5OBpb7y6A0V-65a" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T14:04:44.895Z" agent="5.0 (Windows)" etag="buUW71q6KCdDfa-1xqQU" version="18.1.3" type="github">
   <diagram id="LOgnxP49ZgXyVvEcyjZ6" name="Page-1">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,14 +133,11 @@
         <mxCell id="0MzcDAW_ihwBQpmL2h_L-52" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;API&lt;/b&gt;&lt;/span&gt;" style="html=1;aspect=fixed;shadow=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=16;strokeColor=#996185;fillColor=#e6d0de;gradientColor=#D5739D;gradientDirection=east;labelBorderColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="0MzcDAW_ihwBQpmL2h_L-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-128.png;shadow=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=16;fontColor=none;strokeColor=#000000;fillColor=none;gradientColor=#D5739D;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="101" y="251" width="38" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="0MzcDAW_ihwBQpmL2h_L-54" value="Клиент" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="170" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0MzcDAW_ihwBQpmL2h_L-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/juicyfruit_by_salleedesign/128x128/stats.png;shadow=0;labelBorderColor=none;fontFamily=Times New Roman;fontSize=16;fontColor=#3399FF;strokeColor=#000000;strokeWidth=0;fillColor=none;gradientColor=#D5739D;gradientDirection=east;opacity=70;" vertex="1" parent="1">
-          <mxGeometry y="235" width="70" height="70" as="geometry" />
+          <mxGeometry x="85" y="235" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0MzcDAW_ihwBQpmL2h_L-60" value="&lt;font color=&quot;#4D4D4D&quot;&gt;ftp://82.179.176.252:34583/static.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="240" y="55" width="260" height="20" as="geometry" />
